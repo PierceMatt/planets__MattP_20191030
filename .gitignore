@@ -1,0 +1,6 @@
+# files or folders we want to ignore 
+
+input1.txt
+input2.txt
+results/ 
+# /after name represents folder
